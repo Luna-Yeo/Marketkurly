@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function Login() {
+export default function Teugga() {
   return (
     <div>
-      <div>Login페이지</div>
+      <div>Teugga</div>
     </div>
   );
 }
