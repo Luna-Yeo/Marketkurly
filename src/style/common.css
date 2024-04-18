@@ -1,0 +1,14 @@
+/* :root {
+  --en: "Noto Sans";
+  --ko: "Noto Sans KR", sans-serif;
+} */
+
+body,
+html {
+  font-family: "Noto Sans KR", "Noto Sans", sans-serif;
+}
+
+.inner {
+  width: 1640px;
+  margin: 0 auto;
+}
